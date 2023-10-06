@@ -25,6 +25,7 @@ body {
 
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
+  background: #e6cfcf;
 }
 
 .grid-3-columns {
@@ -78,6 +79,10 @@ section {
 }
 
 section.secondary {
+  background: #e6cfcf;
+}
+
+section.manila-photos {
   background: #e6cfcf;
 }
 
